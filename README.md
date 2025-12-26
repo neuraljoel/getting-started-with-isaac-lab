@@ -7,3 +7,5 @@ Code for the YouTube series \*\*Getting Started with Isaac Lab\*\*.
 \- #1: Installation \& Setup (no code)
 
 \- #2: Adding an FPV Camera to Jetbot
+
+\- #3: Running a Jetbot Simulation
